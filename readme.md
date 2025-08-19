@@ -1,8 +1,32 @@
-🃏 Yu-Gi-Oh | Jo-Ken-Po Edition
-🚀 Sobre o Projeto
-Este é um mini game inspirado no universo de Yu-Gi-Oh!, criado como parte do desafio de projeto do Bootcamp Santander 2025 da DIO.me.
+# 🃏 Yu-Gi-Oh | Jo-Ken-Po Edition
 
-O jogo combina o clássico Jo-Ken-Po (pedra, papel e tesoura) com duelos de cartas, resultando em uma experiência divertida e educativa. O objetivo principal do projeto foi aplicar e reforçar conceitos essenciais de lógica de programação.
+## 🚀 Mini Game desenvolvido no Bootcamp Santander 2025 - DIO.me
+
+🎮 **Mini game inspirado no universo Yu-Gi-Oh!**, criado como parte do **desafio de projeto da plataforma [DIO.me](https://dio.me)** no **Bootcamp Santander 2025**.
+
+🧠 Essa edição especial combina o clássico jogo **Jo-Ken-Po (pedra, papel e tesoura)** com os elementos visuais e temáticos de **duelos de cartas**, tornando a experiência divertida e educativa.
+
+---
+
+## 🔍 Visão geral
+
+Este projeto é uma **reprodução prática** de um mini game de duelo entre cartas. A lógica do jogo baseia-se em uma disputa de forças (ATK, DEF), seguindo um sistema similar ao Jo-Ken-Po, com resultados imediatos e feedback visual.
+
+---
+
+
+## ⚙️ Tecnologias utilizadas
+
+- 💻 **HTML5** - marcação semântica
+- 🎨 **CSS3** - layout, responsividade e animações
+- 📜 **JavaScript (Vanilla)** - lógica de jogo e manipulação do DOM
+
+---
+
+## 🎯 Objetivo educacional
+
+Este projeto foi desenvolvido com o intuito de ensinar e aplicar **lógica de programação** em um contexto prático e lúdico. 
+
 
 🔗 Acesse e Jogue!
 
@@ -10,24 +34,13 @@ Jogue Agora: https://js-yugioh-assets-six.vercel.app
 
 Repositório: https://github.com/aksacarvalho/js-yugioh-assets
 
-⚙️ Tecnologias Utilizadas
-HTML5: Estrutura e marcação semântica.
 
-CSS3: Estilização, layout e animações.
+## 🧠 Conceitos abordados
 
-JavaScript (Vanilla): Lógica do jogo e manipulação do DOM.
+- 🗃️ Armazenamento e gerenciamento de estado manual  
+- 🧼 Escrita de funções limpas e reutilizáveis  
+- 🧩 Organização modular do código  
+- 🖱️ Manipulação de eventos no DOM  
+- 🔁 Estruturas condicionais e controle de fluxo
 
-🧠 Conceitos Abordados
-Lógica de programação em um contexto prático.
-
-Armazenamento e gerenciamento de estado.
-
-Escrita de funções reutilizáveis.
-
-Manipulação de eventos no DOM.
-
-Estruturas condicionais e controle de fluxo.
-
-🎯 Objetivo Educacional
-O projeto serve como uma reprodução prática de um mini game de duelo, com foco na aplicação de lógica de programação de forma lúdica. Ele demonstra como conceitos teóricos podem ser transformados em uma aplicação funcional e interativa.
-
+---
