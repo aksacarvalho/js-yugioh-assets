@@ -1,40 +1,33 @@
-# 🃏 Yu-Gi-Oh | Jo-Ken-Po Edition
+🃏 Yu-Gi-Oh | Jo-Ken-Po Edition
+🚀 Sobre o Projeto
+Este é um mini game inspirado no universo de Yu-Gi-Oh!, criado como parte do desafio de projeto do Bootcamp Santander 2025 da DIO.me.
 
-## 🚀 Mini Game desenvolvido no Bootcamp Santander 2025 - DIO.me
+O jogo combina o clássico Jo-Ken-Po (pedra, papel e tesoura) com duelos de cartas, resultando em uma experiência divertida e educativa. O objetivo principal do projeto foi aplicar e reforçar conceitos essenciais de lógica de programação.
 
-🎮 **Mini game inspirado no universo Yu-Gi-Oh!**, criado como parte do **desafio de projeto da plataforma [DIO.me](https://dio.me)** no **Bootcamp Santander 2025**.
+🔗 Acesse e Jogue!
 
-🧠 Essa edição especial combina o clássico jogo **Jo-Ken-Po (pedra, papel e tesoura)** com os elementos visuais e temáticos de **duelos de cartas**, tornando a experiência divertida e educativa.
+Jogue Agora: https://js-yugioh-assets-six.vercel.app
 
----
+Repositório: https://github.com/aksacarvalho/js-yugioh-assets
 
-## 🔍 Visão geral
+⚙️ Tecnologias Utilizadas
+HTML5: Estrutura e marcação semântica.
 
-Este projeto é uma **reprodução prática** de um mini game de duelo entre cartas. A lógica do jogo baseia-se em uma disputa de forças (ATK, DEF), seguindo um sistema similar ao Jo-Ken-Po, com resultados imediatos e feedback visual.
+CSS3: Estilização, layout e animações.
 
----
+JavaScript (Vanilla): Lógica do jogo e manipulação do DOM.
 
+🧠 Conceitos Abordados
+Lógica de programação em um contexto prático.
 
-## ⚙️ Tecnologias utilizadas
+Armazenamento e gerenciamento de estado.
 
-- 💻 **HTML5** - marcação semântica
-- 🎨 **CSS3** - layout, responsividade e animações
-- 📜 **JavaScript (Vanilla)** - lógica de jogo e manipulação do DOM
+Escrita de funções reutilizáveis.
 
----
+Manipulação de eventos no DOM.
 
-## 🎯 Objetivo educacional
+Estruturas condicionais e controle de fluxo.
 
-Este projeto foi desenvolvido com o intuito de ensinar e aplicar **lógica de programação** em um contexto prático e lúdico. 
+🎯 Objetivo Educacional
+O projeto serve como uma reprodução prática de um mini game de duelo, com foco na aplicação de lógica de programação de forma lúdica. Ele demonstra como conceitos teóricos podem ser transformados em uma aplicação funcional e interativa.
 
----
-
-## 🧠 Conceitos abordados
-
-- 🗃️ Armazenamento e gerenciamento de estado manual  
-- 🧼 Escrita de funções limpas e reutilizáveis  
-- 🧩 Organização modular do código  
-- 🖱️ Manipulação de eventos no DOM  
-- 🔁 Estruturas condicionais e controle de fluxo
-
----
